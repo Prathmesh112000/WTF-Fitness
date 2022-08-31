@@ -122,7 +122,7 @@ app.post("/login",async(req,res)=>{
          if(user.role!=role){
             return res.status(501).json({
                 status:501,
-                message:"Role is wrong"
+                message:"Credential not matched (Role)"
             })
          }
 

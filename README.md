@@ -2,7 +2,7 @@
 Command To run Server: **npm run dev** </br>
 default port:**8080** </br>
 api link: **http://localhost:8080/route_name** </br>
-
+deploy link: **https://wtf-backend-assignment.herokuapp.com**
 **/signup**: </br>
        **Method**: **POST**, </br>
         **Body**: **first_name,last_name,mobile,email,password,role** </br>
